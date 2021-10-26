@@ -176,20 +176,6 @@ function card() {
     goal: "ELS/vendeur à boulanger.",
     character: "Motivé, Bienveillant, Travailleur.", 
   },
-  
-  {
-    portrait: "img/pictures-profile/charlie.jpg",
-    altPortrait: "Portrait Charlie GNIADZIK",
-    name: "Charlie GNIADZIK",
-    position: "Développeur web",
-    mobility: "Chalons en Champagne: 50km max. alentours.",
-    linkLinkedin: "https://www.linkedin.com/in/charlie-g-384b651b6/",
-    linkEmail: "gnidzik.charlie@gmail.com",
-    linkGitHub: "https://github.com/Machou",
-    beforeWcsDesc: "Père au foyer.",
-    goal: "Devenir développeur web confirmé dans une entreprise du CAC40.",
-    character: "Joyeux, intègre, curieux.", 
-  },
 
   {
     portrait: "img/pictures-profile/damien.jpg",
